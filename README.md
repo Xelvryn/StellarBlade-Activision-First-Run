@@ -18,7 +18,7 @@ INSTRUCTIONS TO DISABLE SMART APP CONTROL
 <img width="348" height="352" alt="image" src="https://github.com/user-attachments/assets/a800b5b1-013a-4086-a420-1c09ce79cad1" />
 3. PRESS Smart Control settings
 <img width="695" height="317" alt="image" src="https://github.com/user-attachments/assets/2726ad88-0b19-4ae1-a324-36bd493e9b8f" />
-4. press the off button
+5. press the off button
 <img width="739" height="648" alt="image" src="https://github.com/user-attachments/assets/7ac6379c-9de1-446b-98f1-8955663539a6" />
 
 
