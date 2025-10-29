@@ -12,14 +12,10 @@ Instructions for moving the verify file :
 <img width="988" height="476" alt="image" src="https://github.com/user-attachments/assets/dea16fa4-f0e8-4922-9cad-30708c503ccc" />
 
 INSTRUCTIONS TO DISABLE SMART APP CONTROL
-1. SEARCH IN WINDOWS SEARCH FOR WINDOWS DEFENDER
-<img width="534" height="669" alt="image" src="https://github.com/user-attachments/assets/0c1987d1-1d8a-48e2-a68b-a919829ebbc9" />
-2. PRESS App and browser control
-<img width="348" height="352" alt="image" src="https://github.com/user-attachments/assets/a800b5b1-013a-4086-a420-1c09ce79cad1" />
-3. PRESS Smart Control settings
-<img width="695" height="317" alt="image" src="https://github.com/user-attachments/assets/2726ad88-0b19-4ae1-a324-36bd493e9b8f" />
-5. press the off button
-<img width="739" height="648" alt="image" src="https://github.com/user-attachments/assets/7ac6379c-9de1-446b-98f1-8955663539a6" />
+1. SEARCH IN WINDOWS SEARCH FOR WINDOWS DEFENDER <img width="534" height="669" alt="image" src="https://github.com/user-attachments/assets/0c1987d1-1d8a-48e2-a68b-a919829ebbc9" />
+2. PRESS App and browser control <img width="348" height="352" alt="image" src="https://github.com/user-attachments/assets/a800b5b1-013a-4086-a420-1c09ce79cad1" />
+3. PRESS Smart Control settings <img width="695" height="317" alt="image" src="https://github.com/user-attachments/assets/2726ad88-0b19-4ae1-a324-36bd493e9b8f" />
+5. press the off button <img width="739" height="648" alt="image" src="https://github.com/user-attachments/assets/7ac6379c-9de1-446b-98f1-8955663539a6" />
 
 
 Instruction for Verify Firt Run Game :
